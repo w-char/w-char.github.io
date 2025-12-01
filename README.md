@@ -20,9 +20,10 @@ Home Credit strives for financial inclusion among those who are struggling to ge
 
 ### Business Value of the Solution
 
+
 ### Difficulties Encountered
 
-Difficulties that my group encountered during this project included the run time of the models, differing schedules between groupmates, and finding a way to adhere to Home Credit's overall mission of financial inclusion while still getting effective performance results from our models. 
+Difficulties that my group encountered during this project included the run time of the models, differing schedules between groupmates, and finding a way to adhere to Home Credit's overall mission of financial inclusion while still getting effective performance results from our models. The long run time in R made it difficult for us to complete work at the same time and analyze performance results together. We already had some difficulties with busy schedules and a group member often in and out of town so the run time was an additional factor to take into account on top of that. Our group was able to meet consistently throughout the project but our schedules made it hard to meet for last minute alterations or unexpected problems. To make up for this, we were highly responsive to each other and very communicative throughout the project. Our difficulty adhering to Home Credit's goal of financial inclusion was something that we did not realize soon enough. Ultimately, we lost sight of the main goal and became too focused on producing a model with good performance. Eventually once we realized this, we had to make alterations to our project in order to follow Home Credit's initital objective. 
 
 ### Project Takeaways and Reflection
 
