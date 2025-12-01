@@ -14,6 +14,7 @@ Home Credit strives for financial inclusion among those who are struggling to ge
 
 ### Group Solution
 
+Our group's recommended solultion to Home Credit was to use a Boosted Tree model as a a baseline to evaluate rejected loan applications in order to find additional commonalities and more unconventional predictors. This way, Home Credit could both approve more loans and eventually be more financially inclusive for the underserved clients. 
 
 ### Individual Contribution
 
