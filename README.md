@@ -14,7 +14,7 @@ Home Credit strives for financial inclusion among those who are struggling to ge
 
 ### Group Solution
 
-Our group's recommended solultion to Home Credit was to use a Boosted Tree model as a a baseline to evaluate rejected loan applications in order to find additional commonalities and more unconventional predictors. This way, Home Credit could both approve more loans and eventually be more financially inclusive for the underserved clients. 
+Our group's recommended solultion to Home Credit's default project was to use a Boosted Tree model as a a baseline to evaluate rejected loan applications in order to find additional commonalities and more unconventional predictors. This way, Home Credit could both approve more loans and eventually be more financially inclusive for the underserved clients. 
 
 Our Boosted Tree Model had an AUC of 0.74 and a kaggle score of 0.697. 
 
@@ -46,7 +46,9 @@ My individual contributions and efforts towards this group project include the f
 
 ### Business Value of the Solution
 
-The business value of the solution is that 
+The business value of the solution is that by using the Boosted Tree Model our group recommended, Home Credit can reduce the toll of financial losses from defaulting customers, approve more loans, and eventually promote financial inclusion for customers with a limited traditional credit history. The Boosted Tree Model can help Home Credit identify high-risk borrows more accurately and after approving more loans, they will be able to find more commonalities between borrowers and identify more unconventional predictors to increase loan inclusivity. This Boosted Tree Model will also lower Home Credit's spending in acquiring new customers since the model will reduce the risk of defaults from customers. 
+
+Ultimately, these steps would increase Home Credit's revenue while achieving their long term goal of financial inclusivity for previously underserved clients. 
 
 ### Difficulties Encountered
 
