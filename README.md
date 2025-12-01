@@ -3,7 +3,7 @@
 ## Portfolio
 
 I am pursuing a Master's Degree in Business Analytics at the University of Utah. 
-I currently work in Proposal Operations as a Hardware Cost Estimator at L3Harris. 
+I currently work in Proposal Operations as a Hardware Cost Estimator at L3Harris Technologies. 
 
 ---
 
@@ -46,6 +46,7 @@ My individual contributions and efforts towards this group project include the f
 
 ### Business Value of the Solution
 
+The business value of the solution is that 
 
 ### Difficulties Encountered
 
@@ -62,16 +63,6 @@ In regards to teamwork, I believe that we worked effectively for the most part b
 - Evaluated with ROC AUC and calibration
 - Business focus on customer retention
 - [View Code](https://github.com/yourusername/churn-project)
-
-### Loan Default Prediction (Home Credit – Kaggle)
-- Feature engineering on financial data
-- Boosted tree models with improved AUC
-- [View Code](https://github.com/yourusername/loan-project)
-
-### Customer Segmentation
-- K-means and K-medoids clustering
-- Distance metric comparison
-- [View Code](https://github.com/yourusername/clustering-project)
 
 ---
 
