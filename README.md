@@ -60,9 +60,13 @@ From the technical aspect of the project, I learned a lot about data preparation
 
 In regards to teamwork, I believe that we worked effectively for the most part but something I learned is that when relying on others for teamwork, it is best to be more ahead of schedule than you would normally think is necessary. There are often conflicts in schedule between multiple people and being ahead of schedule made it possible for us to implement plan b's and c's if someone was not able to finish their delegated tasks. I think that the way in which we assigned tasks was very efficient, and I learned a lot about the data preparation and modeling process from my groupmates during the modeling portion of the project. 
 
-### Customer Churn Prediction
+### Individual Modeling Churn Prediction
+- Generalized Linear Model
+- Random Forest
+- Boosted Tree Model
+- Causal Forest
 - Gradient Boosting model to predict churn
-- Evaluated with ROC AUC and calibration
+- Evaluated with AUC
 - Business focus on customer retention
 - [View Code](https://github.com/yourusername/churn-project)
 
