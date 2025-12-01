@@ -1,6 +1,6 @@
 # Charlotte Wang
 
-### Portfolio
+## Portfolio
 
 I am pursuing a Master's Degree in Business Analytics at the University of Utah. 
 I currently work in Proposal Operations as a Hardware Cost Estimator at L3Harris. 
@@ -22,6 +22,7 @@ Home Credit strives for financial inclusion among those who are struggling to ge
 
 ### Difficulties Encountered
 
+Difficulties that my group encountered during this project included the run time of the models, differing schedules between groupmates, and finding a way to adhere to Home Credit's overall mission of financial inclusion while still getting effective performance results from our models. 
 
 ### Project Takeaways and Reflection
 
@@ -55,12 +56,7 @@ In regards to teamwork, I believe that we worked effectively for the most part b
 
 ---
 
-## Resume
-[Download My Resume](resume.pdf)
-
----
-
 ## Contact
-- GitHub: https://github.com/yourusername  
-- LinkedIn: https://linkedin.com/in/yourname  
-- Email: yourname@email.com
+- GitHub: https://github.com/w-char 
+- LinkedIn: https://www.linkedin.com/in/charlotte-wang2428/
+- Email: u0915843@umail.utah.edu
