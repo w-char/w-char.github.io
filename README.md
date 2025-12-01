@@ -16,8 +16,33 @@ Home Credit strives for financial inclusion among those who are struggling to ge
 
 Our group's recommended solultion to Home Credit was to use a Boosted Tree model as a a baseline to evaluate rejected loan applications in order to find additional commonalities and more unconventional predictors. This way, Home Credit could both approve more loans and eventually be more financially inclusive for the underserved clients. 
 
+Our Boosted Tree Model had an AUC of 0.74 and a kaggle score of 0.697. 
+
 ### Individual Contribution
 
+My individual contributions and efforts towards this group project include the following:
+- Modeling Individual Notebook (Used for model comparison and and team efforts in finding the best performing model for Home Credit.)
+      - Examine Data
+          - Check for missing values
+          - Factor necessary data
+      - Clean Data
+          - Drop columns that have more than 40% Null values
+          - Examine the dropped columns to determine what was left and what was removed from the dataset
+      - 5-Fold Cross-Validation	
+          - Split the data 80/20 for train and test sets
+          - Impute the missing values 
+          - Cross Validation
+      - GLM Model
+      - Random Forest
+      - Identifying Best Predictors from the previous random forest model and store these in their own variable
+      - Causal Forest
+      - Boosted Tree Model (AUC of 0.726)
+- Compiled text responses used for each section in our group's individual modeling notebooks and utilized them to write the introduction, data preparation, modeling process, and results sections used in our modeling assignment.
+- Created slides for business recommendations and the project summary for the presentation
+- Presented on the business impact and business recommendations for Home Credit
+- Attended all group meetings
+- Assisted in task delegation to other group members and organizing group work deadlines and meetings
+- Thoroughly reviewed group efforts before submission
 
 ### Business Value of the Solution
 
