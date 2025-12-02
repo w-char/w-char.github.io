@@ -41,7 +41,7 @@ My individual contributions and efforts towards this group project include the f
 - Created slides for business recommendations and the project summary for the presentation
 - Presented on the business impact and business recommendations for Home Credit
 - Attended all group meetings
-- Assisted in task delegation to other group members and organizing group work deadlines and meetings
+- Shared duties of task delegation to other group members, organizing group work deadlines, and setting up group meetings
 - Thoroughly reviewed group efforts before submission
 
 ### Business Value of the Solution
