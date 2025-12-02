@@ -75,7 +75,7 @@ In regards to teamwork, I believe that we worked effectively for the most part b
 ## Skills
 
 **Languages:** R, SQL  
-**Machine Learning:** GBM, Random Forest, Logistic Regression  
+**Machine Learning:** Gradient Boosted Model, Random Forest, Causal Forest, Logistic Regression  
 **Tools:** RStudio, Git, GitHub  
 
 ---
