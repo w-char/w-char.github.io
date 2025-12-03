@@ -6,9 +6,9 @@ Home Credit strives for financial inclusion among clients who are struggling to 
 
 ### Group Solution
 
-Our group's solultion to Home Credit's default project was to use a Boosted Tree model as a a baseline to evaluate rejected loan applications in order to find additional commonalities and more unconventional predictors. This way, Home Credit could both approve more loans and eventually be more financially inclusive for the underserved clients. Although it does not give them the immediate ability to expand financial inclusion to the underserved population, it will help them achieve this goal in the long term.
+Our group's solultion to Home Credit's default project was to use a Boosted Tree model as a baseline to evaluate rejected loan applications in order to find additional commonalities and more unconventional predictors. This way, Home Credit could both approve more loans and eventually be more financially inclusive for the underserved clients. Although it does not give them the immediate ability to expand financial inclusion to the underserved population, it will help them achieve this goal in the long term.
 
-Our Boosted Tree Model had an AUC of 0.74 and a kaggle score of 0.697. 
+Our Boosted Tree Model had an AUC of 0.74 and a kaggle score of 0.74. 
 
 ### Individual Contribution
 
@@ -44,7 +44,7 @@ Ultimately, these steps would increase Home Credit's revenue while achieving the
 
 ### Difficulties Encountered
 
-Difficulties that my group encountered during this project included the run time of the models, differing schedules between groupmates, and finding a way to adhere to Home Credit's overall mission of financial inclusion while still getting effective performance results from our models. The long run time in R made it difficult for us to complete work at the same time and analyze performance results together. We already had some difficulties with busy schedules and a group member often in and out of town so the run time was an additional factor to take into account on top of that. Our group was able to meet consistently throughout the project but our schedules made it hard to meet for last minute alterations or unexpected problems. To make up for this, we were highly responsive to each other and very communicative throughout the project. Our difficulty adhering to Home Credit's goal of financial inclusion was something that we did not realize soon enough. Ultimately, we lost sight of the main goal and became too focused on producing a model with good performance. Eventually once we realized this, we had to make alterations to our project in order to follow Home Credit's initital objective. 
+Difficulties that my group encountered during this project included the run time of the models, differing schedules between groupmates, and finding a way to adhere to Home Credit's overall mission of financial inclusion while still getting effective performance results from our models. The long run time in R made it difficult for us to complete work at the same time and analyze performance results together. We already had some difficulties with busy schedules and group members in and out of town so the run time was an additional factor to take into account on top of that. Our group was able to meet consistently throughout the project but our schedules made it hard to meet for last minute alterations or unexpected problems. To make up for this, we were highly responsive to each other and very communicative throughout the project. Our difficulty adhering to Home Credit's goal of financial inclusion was something that we did not realize soon enough. At some point, we lost sight of the main goal and became too focused on producing a model with good performance. Once we realized this, we had to make alterations to our project in order to follow Home Credit's initital objective. 
 
 ### Project Takeaways and Reflection
 
