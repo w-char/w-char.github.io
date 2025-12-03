@@ -1,7 +1,7 @@
 # Analytics Work
 ## Home Credit Default Project
 
-### Business Problem
+### Business Problem & Project Objective
 Home Credit strives for financial inclusion among those who are struggling to get a loan. They are looking for a more reliable way to identify customers that are able to make repayments in order to lessen defaults. In addition to losses from defaulting, rejecting clients who are likely to repay their loan also leads to lost revenue, and finding new clients is costly. The purpose of this project is to generate a default risk model that can maximize assessment accuracy using a variety of alternative data for this project. This will result in having more approved loans with controlled risk, less defaults, improved profitability, and improved financial opportunities for customers struggling with the traditional credit system.  
 
 ### Group Solution
