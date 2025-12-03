@@ -63,7 +63,7 @@ In regards to teamwork, I believe that we worked effectively for the most part b
 
 ---
 
-## Skills
+# Skills
 
 **Languages:** R, SQL  
 **Machine Learning:** Gradient Boosted Model, Random Forest, Causal Forest, Logistic Regression  
@@ -71,7 +71,7 @@ In regards to teamwork, I believe that we worked effectively for the most part b
 
 ---
 
-## Contact
+# Contact
 - GitHub: https://github.com/w-char 
 - LinkedIn: https://www.linkedin.com/in/charlotte-wang2428/
 - Email: u0915843@umail.utah.edu
