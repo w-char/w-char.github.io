@@ -1,12 +1,4 @@
-# Charlotte Wang
-
-## About Me
-
-I am pursuing a Master's Degree in Business Analytics at the University of Utah. 
-I currently work in Proposal Operations as a Hardware Cost Estimator at L3Harris Technologies. 
-
----
-
+# Analytics Work
 ## Home Credit Default Project
 
 ### Business Problem
