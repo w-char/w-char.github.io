@@ -6,7 +6,7 @@ Home Credit strives for financial inclusion among clients who are struggling to 
 
 ### Group Solution
 
-Our group's recommended solultion to Home Credit's default project was to use a Boosted Tree model as a a baseline to evaluate rejected loan applications in order to find additional commonalities and more unconventional predictors. This way, Home Credit could both approve more loans and eventually be more financially inclusive for the underserved clients. 
+Our group's solultion to Home Credit's default project was to use a Boosted Tree model as a a baseline to evaluate rejected loan applications in order to find additional commonalities and more unconventional predictors. This way, Home Credit could both approve more loans and eventually be more financially inclusive for the underserved clients. Although it does not give them the immediate ability to expand financial inclusion to the underserved population, it will help them achieve this goal in the long term.
 
 Our Boosted Tree Model had an AUC of 0.74 and a kaggle score of 0.697. 
 
@@ -24,13 +24,13 @@ My individual contributions and efforts towards this group project include the f
     - Split the data 80/20 for train and test sets
     - Impute the missing values
     - Cross Validation
-  - GLM Model
-  - Random Forest
-  - Identifying Best Predictors from the previous random forest model and store these in their own variable
-  - Causal Forest
+  - GLM Model (AUC of 0.739)
+  - Random Forest (AUC of 0.704, Kaggle Score of 0.6871)
+  - Identifying Best Predictors from the Random Forest model
+  - Causal Forest (Kaggle Score of 0.5084)
   - Boosted Tree Model (AUC of 0.726)
-- Compiled text responses used for each section in our group's individual modeling notebooks and utilized them to write the introduction, data preparation, modeling process, and results sections used in our modeling assignment.
-- Created slides for business recommendations and the project summary for the presentation
+- Compiled text responses used for each section of our group's individual modeling notebooks and utilized them to write the introduction, data preparation, modeling process, and results sections used in our modeling assignment.
+- Created slides for the business recommendations and the project summary for the presentation
 - Presented on the business impact and business recommendations for Home Credit
 - Attended all group meetings
 - Shared duties of task delegation to other group members, organizing group work deadlines, and setting up group meetings
@@ -57,7 +57,7 @@ In regards to teamwork, I believe that we worked effectively for the most part b
 - Random Forest
 - Boosted Tree Model
 - Causal Forest
-- Gradient Boosting model to predict churn
+- Gradient Boosting Model
 - Evaluated with AUC
 - [View Code on Github](https://github.com/w-char/IS6812-Practice-Project)
 
