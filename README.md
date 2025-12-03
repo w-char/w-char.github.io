@@ -59,7 +59,7 @@ In regards to teamwork, I believe that we worked effectively for the most part b
 - Causal Forest
 - Gradient Boosting model to predict churn
 - Evaluated with AUC
-- [View Code](https://github.com/w-char/IS6812-Practice-Project)
+- [View Code on Github](https://github.com/w-char/IS6812-Practice-Project)
 
 ---
 
